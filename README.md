@@ -11,7 +11,7 @@
 
 * 사용 기술 : React, styled-component(React), vscode, python
 * 기타 사용 기술
-  **Context API**
+  * **Context API**
   * 프로젝트 안에서 전역적으로 사용할 수 있는 값을 관리함.
   * dispatch를 어디서든 조회해서 사용할 수 있게 하면 코드의 구조가 깔끔함.
 

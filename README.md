@@ -25,7 +25,9 @@
 ### 컴포넌트
 
 ![Todo-1](https://github.com/user-attachments/assets/3e6dfc2e-8057-4fff-a893-dd316410706e) | ![Todo-0](https://github.com/user-attachments/assets/27724523-b0e2-4954-928a-2d68d7c4f419)
+--------------------------------------|--------------------------------
 ![Todo-2](https://github.com/user-attachments/assets/dc1edc70-e556-46b2-ace7-927932ad2b5d) | 🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
+------------------------|-----------------------------------
 
 
 

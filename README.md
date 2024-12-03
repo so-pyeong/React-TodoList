@@ -24,8 +24,10 @@
 
 ### 컴포넌트
 
-<left><image src = "https://github.com/user-attachments/assets/6a77365d-fa0b-40b6-a902-c62c1eaad768" width="30%" height="30%"></left>
-<image src = "https://github.com/user-attachments/assets/f8aa112f-dbc8-417e-8ac4-98d9abdc121a" width="30%" height="30%">
+![Todo-1](https://github.com/user-attachments/assets/3e6dfc2e-8057-4fff-a893-dd316410706e) | ![Todo-0](https://github.com/user-attachments/assets/27724523-b0e2-4954-928a-2d68d7c4f419)
+![Todo-2](https://github.com/user-attachments/assets/dc1edc70-e556-46b2-ace7-927932ad2b5d) | 🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
+
+
 
 ### 개선할 점
 * 원래는 이 투두리스트에 로그인 기능을 추가하고, 더 좋은 기술을 적용하여 변경하는 방향으로 발전시켜 나갈 예정이었다. 그러나 지금은 이 프로젝트의 디테일에 신경쓰기보다는 지금 배우는 리액트 공부를 더 해서 추후에 새로운 프로젝트에 이 기술을 접목하는게 더 낫다고 판단하여 여기서 중단하였다. 만약 이후에 이 프로젝트를 개선해 가는 방향으로 다시 손을 댄다면 로그인 기능도 추가하고, 투두리스트를 저장하는 기능까지 더 신경 쓸 생각이다.
